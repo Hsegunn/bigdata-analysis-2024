@@ -26,6 +26,6 @@
 
 #### Matplot.lib / Seaborn
 Matplot.lib, Seaborn은 데이터 시각화 라이브러리
-Matplot.lib은 기본 ,
+Matplot.lib은 기본
 
 
