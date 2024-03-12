@@ -38,5 +38,5 @@ Matplotlib, Seaborn은 데이터 시각화 라이브러리 Matplotlib 기본, Se
 3. 시스템 속성 > 환경변수 경로 등록
 4. 셀레니움 연동, 실행
 
-![크롬버전](https://raw.githubusercontent.com/Hsegunn/bigdata-analysis-2024/main/images/ba004.png)
+![셀레니움](https://raw.githubusercontent.com/Hsegunn/bigdata-analysis-2024/main/images/ba004.png)
 
