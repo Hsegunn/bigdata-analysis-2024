@@ -14,7 +14,7 @@
 #### 데이터 분석 실습
 
 ##### COVID19 영향으로 중국인 관광객 수 감수여부 분석
-- 전체 내용은 [da09_COVID19.ipynb]() 참조
+- 전체 내용은 [da09_COVID19.ipynb](https://github.com/Hsegunn/bigdata-analysis-2024/blob/main/day03/da09_COVID19.ipynb) 참조
 - 결과 화면
 
     ![중국관광객](https://raw.githubusercontent.com/Hsegunn/bigdata-analysis-2024/main/images/ba005.png)
