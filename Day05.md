@@ -8,10 +8,10 @@
 - 지도 시각화
     - 카카오 API 사용, https://developers.kakao.com/
 
+    ![마커 클러스터](https://raw.githubusercontent.com/Hsegunn/bigdata-analysis-2024/main/images/ba009.gif)
+
 ##### 스타벅스 입지 분석
 - 웹 크롤링, 데이터 수집, 지도 시각화, 분석
-
-    ![웹 크롤링](https://raw.githubusercontent.com/Hsegunn/bigdata-analysis-2024/main/images/ba009.gif)
 
 - 서울 열린데이터 광장 OPEN API 서비스로 인구통계 데이터 수집
 
