@@ -10,7 +10,8 @@
 
 - 지도 시각화 
 
-    ![매장수사업체수비교](https://raw.githubusercontent.com/Hsegunn/bigdata-analysis-2024/main/images/ba010.gif)
+    ![매장수사업체수비교](https://raw.githubusercontent.com/Hsegunn/bigdata-analysis-2024/main/images/ba010.png)
+    
 
 ##### 무선청소기 인기상품 비교분석
 1. 다나와 사이트(http://www.danawa.com)
