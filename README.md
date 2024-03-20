@@ -50,7 +50,9 @@
 ## [8일차](https://github.com/Hsegunn/bigdata-analysis-2024/blob/main/Day07.md)
 - 빅데이터 실습
     - 무선청소기 종류 분석 
-    - 
 
 ## [9일차](https://github.com/Hsegunn/bigdata-analysis-2024/blob/main/Day09.md)
 - 빅데이터 실습
+    - OpenAPI 기반 크롤링 실습
+    - 통계 분석 리뷰
+    - 머신러닝 실습
