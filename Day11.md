@@ -27,7 +27,7 @@
 
 ##### [결정트리](https://github.com/Hsegunn/bigdata-analysis-2024/blob/main/day12/da27_%EA%B2%B0%EC%A0%95%ED%8A%B8%EB%A6%AC_%EB%B6%84%EC%84%9D.ipynb)
 
-    ![결정트리](https://raw.githubusercontent.com/Hsegunn/bigdata-analysis-2024/main/images/ba019.png)
+![결정트리](https://raw.githubusercontent.com/Hsegunn/bigdata-analysis-2024/main/images/ba019.png)
 
 ### 텍스트 마이닝
 - 영화리뷰 데이터로 감성예측

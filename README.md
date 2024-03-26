@@ -75,4 +75,3 @@
 ## [13일차](https://github.com/Hsegunn/bigdata-analysis-2024/blob/main/Day11.md)
 - 머신러닝 실습
     - 텍스트 마이닝, 감성분석
-    - 
