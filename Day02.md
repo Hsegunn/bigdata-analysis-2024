@@ -40,3 +40,4 @@ Matplotlib, Seaborn은 데이터 시각화 라이브러리 Matplotlib 기본, Se
 
 ![셀레니움](https://raw.githubusercontent.com/Hsegunn/bigdata-analysis-2024/main/images/ba004.png)
 
+[이전](https://github.com/Hsegunn/bigdata-analysis-2024/blob/main/README.md)

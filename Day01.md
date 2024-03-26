@@ -60,3 +60,5 @@
 2. Intellisense로 느려짐
     - Ctrl + ,(설정) > TypeScript, Editor > Suggest 모두 해제
     - 필요한 것만 체크해서 사용
+
+[이전](https://github.com/Hsegunn/bigdata-analysis-2024/blob/main/README.md)

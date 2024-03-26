@@ -22,3 +22,5 @@
 - 결측치 검색, 제거
 
     ![회귀분석 시각화](https://raw.githubusercontent.com/Hsegunn/bigdata-analysis-2024/main/images/ba014.png)
+
+[이전](https://github.com/Hsegunn/bigdata-analysis-2024/blob/main/README.md)

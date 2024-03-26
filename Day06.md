@@ -11,3 +11,5 @@
 - 웹 크롤링, 데이터 수집, 지도 시각화, 분석(완)
 - 서울 열린데이터 광장 OPEN API 서비스로 인구통계 데이터 수집
 - 판다스로 데이터 처리(완)
+
+[이전](https://github.com/Hsegunn/bigdata-analysis-2024/blob/main/README.md)

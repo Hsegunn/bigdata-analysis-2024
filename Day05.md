@@ -17,3 +17,5 @@
 
 1. 스타벅스 코리아 웹사이트(http://www.starbucks.co.kr/) 
 2. 열린데이터 광장 OPEN API 서비스(https://data.seoul.go.kr/)
+
+[이전](https://github.com/Hsegunn/bigdata-analysis-2024/blob/main/README.md)

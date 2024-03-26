@@ -31,3 +31,4 @@
 
     ![매장수사업체수비교](https://raw.githubusercontent.com/Hsegunn/bigdata-analysis-2024/main/images/ba011.png)
 
+[이전](https://github.com/Hsegunn/bigdata-analysis-2024/blob/main/README.md)

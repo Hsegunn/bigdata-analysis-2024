@@ -18,3 +18,5 @@
 - 결과 화면
 
     ![중국관광객](https://raw.githubusercontent.com/Hsegunn/bigdata-analysis-2024/main/images/ba005.png)
+
+[이전](https://github.com/Hsegunn/bigdata-analysis-2024/blob/main/README.md)

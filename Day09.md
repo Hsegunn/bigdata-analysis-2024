@@ -30,3 +30,5 @@
 
 #### 와인 품질 분석
 - [캘리포니아 어바인 대학 연구소](https://archive.ics.uci.edu/dataset/186/wine+quality)
+
+[이전](https://github.com/Hsegunn/bigdata-analysis-2024/blob/main/README.md)

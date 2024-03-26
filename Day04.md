@@ -23,3 +23,5 @@
     - 워드클라우드
 
     ![워드클라우드](https://raw.githubusercontent.com/Hsegunn/bigdata-analysis-2024/main/images/ba008.png)
+
+[이전](https://github.com/Hsegunn/bigdata-analysis-2024/blob/main/README.md)
